@@ -6,4 +6,4 @@ More problem solutions will be updated upon completion! :wrench:
 
 Profile: <a href="https://www.hackerrank.com/profile/minorudananjaya1" target="_blank">Minoru_Dhananjaya</a>
 
-**9/105** Challenges Solved
+**15/105** Challenges Solved
